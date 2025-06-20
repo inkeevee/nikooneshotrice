@@ -1,0 +1,36 @@
+2025-06-12 17:26:57.772 [info] Extension host with pid 1466 started
+2025-06-12 17:26:57.960 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-06-12 17:26:58.073 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-06-12 17:26:58.090 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-06-12 17:26:58.220 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-06-12 17:26:58.390 [info] Eager extensions activated
+2025-06-12 17:26:58.426 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-06-12 17:26:58.430 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-06-12 17:28:24.939 [info] Extension host terminating: renderer closed the MessagePort
+2025-06-12 17:28:24.959 [info] Extension host with pid 1466 exiting with code 0
+2025-06-12 17:28:27.182 [info] Extension host with pid 1588 started
+2025-06-12 17:28:27.182 [info] Skipping acquiring lock for /home/kris/.config/Code - OSS/User/workspaceStorage/c7ef96c5ab864b5adb5083be352bcff5.
+2025-06-12 17:28:27.276 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-06-12 17:28:27.293 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-06-12 17:28:27.385 [info] Eager extensions activated
+2025-06-12 17:28:27.451 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-06-12 17:28:27.457 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-06-12 17:28:29.592 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-06-12 17:28:35.745 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-12 17:28:35.780 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-12 17:28:35.961 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-12 17:28:36.113 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-06-12 17:29:57.352 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-06-12 17:44:46.561 [info] Extension host terminating: renderer closed the MessagePort
+2025-06-12 17:44:46.604 [info] Extension host with pid 1588 exiting with code 0
+2025-06-12 17:44:49.005 [info] Extension host with pid 2324 started
+2025-06-12 17:44:49.005 [info] Skipping acquiring lock for /home/kris/.config/Code - OSS/User/workspaceStorage/f6a4b7afb52579bf77f4dc222b2e9685.
+2025-06-12 17:44:49.026 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-06-12 17:44:49.036 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-06-12 17:44:49.097 [info] Eager extensions activated
+2025-06-12 17:44:49.106 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-06-12 17:44:49.113 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-06-12 17:45:06.652 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-06-12 17:45:19.138 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-06-12 17:45:19.246 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-06-12 17:45:28.134 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'

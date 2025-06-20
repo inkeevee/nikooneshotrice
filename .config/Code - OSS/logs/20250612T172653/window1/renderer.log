@@ -1,0 +1,13 @@
+2025-06-12 17:26:56.458 [info] Started local extension host with pid 1466.
+2025-06-12 17:26:57.158 [info] ComputeTargetPlatform: linux-x64
+2025-06-12 17:26:59.645 [info] [perf] Render performance baseline is 32ms
+2025-06-12 17:28:25.871 [info] Started local extension host with pid 1588.
+2025-06-12 17:28:25.915 [info] ComputeTargetPlatform: linux-x64
+2025-06-12 17:28:26.555 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-06-12 17:28:28.588 [info] [perf] Render performance baseline is 38ms
+2025-06-12 17:44:46.219 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+2025-06-12 17:44:46.503 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/kris/.config/waybar/config.jsonc 
+2025-06-12 17:44:47.727 [info] Started local extension host with pid 2324.
+2025-06-12 17:44:47.798 [info] ComputeTargetPlatform: linux-x64
+2025-06-12 17:44:48.742 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-06-12 17:44:50.593 [info] [perf] Render performance baseline is 37ms

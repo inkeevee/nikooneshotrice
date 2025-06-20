@@ -1,0 +1,33 @@
+body {
+    background-color: indigo;
+    background-image: url(93890d9e-6850-466f-889f-e57bfb9ec83c-profile_image-70x70.png);
+    color: blueviolet;
+    font-size: medium;
+    font-family: sans-serif;
+    margin: 25px;
+    background-repeat: no-repeat;
+}
+h2 {
+    text-align: center;
+}
+a {
+    color: blueviolet;
+}
+a:hover {
+    color: white;
+}
+.menu a {
+    color: black;
+}
+.border {
+    display: inline;
+    padding: 5px;
+    padding-left: 10px;
+    padding-bottom: 8px;
+    padding-right: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: lavender;
+    border-radius: 50px;
+    background-color: rgba(108, 59, 170, 0.7);
+}

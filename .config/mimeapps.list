@@ -1,0 +1,8 @@
+[Default Applications]
+image/jpeg=sxiv.desktop
+
+[Added Associations]
+image/jpeg=sxiv.desktop;
+image/png=sxiv.desktop;
+application/toml=code-oss.desktop;
+text/html=code-oss.desktop;

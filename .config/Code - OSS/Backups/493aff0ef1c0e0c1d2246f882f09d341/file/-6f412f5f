@@ -1,0 +1,36 @@
+file:///home/kris/Documents/css/css.css {"mtime":1750258210944,"ctime":1749743127989,"size":665,"etag":"3ede15i3ple","orphaned":false,"typeId":""}
+body {
+    background-color: indigo;
+    background-image: url(Kath.png);s
+    color: blueviolet;
+    font-size: medium;
+    font-family: sans-serif;
+    margin: 25px;
+    background-repeat: no-repeat;
+    background-size: 1280px 720px;
+    background-attachment: scroll;
+}
+h2 {
+    text-align: center;
+}
+a {
+    color: blueviolet;
+}
+a:hover {
+    color: white;
+}
+.menu a {
+    color: black;
+}
+.border {
+    display: inline;
+    padding: 5px;
+    padding-left: 10px;
+    padding-bottom: 8px;
+    padding-right: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: lavender;
+    border-radius: 50px;
+    background-color: rgba(108, 59, 170, 0.7);
+}

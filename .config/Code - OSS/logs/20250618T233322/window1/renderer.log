@@ -1,0 +1,7 @@
+2025-06-18 23:33:24.827 [info] Started local extension host with pid 21765.
+2025-06-18 23:33:25.645 [info] ComputeTargetPlatform: linux-x64
+2025-06-18 23:33:28.498 [info] [perf] Render performance baseline is 40ms
+2025-06-18 23:35:47.473 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/kris/Documents/css/html.html 
+2025-06-18 23:35:48.760 [info] Started local extension host with pid 21881.
+2025-06-18 23:35:48.907 [info] ComputeTargetPlatform: linux-x64
+2025-06-18 23:35:51.714 [info] [perf] Render performance baseline is 41ms

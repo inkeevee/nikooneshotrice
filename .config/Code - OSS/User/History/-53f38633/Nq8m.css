@@ -1,0 +1,20 @@
+body {
+    background-color: indigo;
+    background-image: url(images.steamusercontent.jpg);
+    color: blueviolet;
+    font-size: medium;
+    font-family: sans-serif;
+    margin: 25px;
+}
+h2 {
+    text-align: center;
+}
+a {
+    color: blueviolet;
+}
+a:hover {
+    color: white;
+}
+.123 a{
+    color: black;
+}
